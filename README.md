@@ -1,2 +1,10 @@
-# competitive-intelligence-prompts
-Open-source prompt library for AI-powered competitive intelligence, market intelligence, competitor analysis, market research, and strategic monitoring. For startups, freelancers, B2B, and solopreneurs. 
+# Competitive Intelligence Prompts
+
+An open-source collection of prompts for competitive intelligence teams, product marketers, founders, sales teams, consultants, and AI-native businesses.
+
+These prompts work with ChatGPT, Claude, Gemini and other LLMs.
+
+Created by IntelCue.
+
+Website:
+https://intelcue.ai
