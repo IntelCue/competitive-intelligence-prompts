@@ -18,6 +18,14 @@ This repository collects battle-tested prompts that turn a general-purpose LLM i
 
 **Who it's for:** startups, freelancers, B2B teams, agencies, and solo operators who need to understand their market and their competitors but don't have — and don't want — a full-time research function.
 
+## What is competitive intelligence?
+
+Competitive intelligence (CI) is the practice of gathering and analyzing publicly available information about your competitors and market — their products, pricing, positioning, messaging, hiring, and customer sentiment — to make better strategic decisions. It turns scattered public signals into a clear picture of where a market is moving and how to win in it.
+
+Market intelligence is the broader sibling. Where competitive intelligence focuses on specific rivals, market intelligence covers the whole landscape: trends, demand shifts, new entrants, and the forces reshaping a category. This library covers both — [competitor analysis](#competitor-analysis) for head-to-head insight, and [market intelligence](#market-intelligence) for the bigger picture.
+
+Traditionally this work required a dedicated analyst and a stack of paid subscriptions. With a capable AI assistant and a well-structured prompt, a single founder, marketer, or operator can now produce analyst-grade competitive and market intelligence on demand.
+
 ## How to use
 
 1. Pick a prompt from the [library below](#prompt-library).
@@ -110,6 +118,32 @@ Worked examples showing how to chain these prompts together for real scenarios:
 ## Contributing
 
 Contributions are welcome. Good prompts are practical, specific, evidence-oriented, and free of fluff. See [CONTRIBUTING.md](CONTRIBUTING.md) for the bar and the file format.
+
+## FAQ
+
+### What is competitive intelligence?
+Competitive intelligence is the practice of collecting and analyzing publicly available information about your competitors and market to make better strategic decisions — covering their products, pricing, positioning, messaging, hiring, and customer sentiment.
+
+### What's the difference between competitive intelligence and market intelligence?
+Competitive intelligence focuses on specific rivals — how they price, position, and ship. Market intelligence is broader: it covers the whole category, including trends, demand, new entrants, and the forces reshaping the market. This library includes prompts for both.
+
+### Which AI models do these prompts work with?
+All of them. The prompts are model-agnostic and work with ChatGPT, Claude, Gemini, Perplexity, and any other large language model. For the most current answers, use a model that can browse the web, or paste the source material into the chat.
+
+### Are these prompts free?
+Yes. The entire library is open source under the [MIT License](LICENSE) — free to use, including commercially.
+
+### How do I use a prompt?
+Open the prompt file, copy the prompt block, replace the `{placeholders}` (competitor, your company, market, region), and paste it into your AI assistant. Each file also lists optional inputs and notes for better results.
+
+### Can I use these for client or commercial work?
+Yes — the MIT License permits commercial use. Many people run these prompts for their own startup, their employer, or client engagements.
+
+### How is this different from an automated competitive intelligence tool?
+These prompts are the manual, on-demand version: you gather the sources and run the analysis yourself, whenever you need it. An automated platform like [IntelCue](https://intelcue.ai) does the monitoring continuously — watching competitors across many sources, deduplicating signals, and delivering briefings automatically — so you don't have to re-run the work by hand every week.
+
+### How often should I run competitive analysis?
+For most teams, a deeper review each quarter plus lighter weekly monitoring works well. Re-run a specific analysis whenever a competitor changes pricing, ships a major release, raises funding, or shifts positioning.
 
 ## About IntelCue
 
