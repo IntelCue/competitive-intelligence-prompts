@@ -44,4 +44,4 @@ Sources/news to analyze (optional): {paste_sources}
 - A named competitor set to weight coverage toward.
 
 ## Notes
-The discipline here is *subtraction* — a good briefing leaves most news out. The "noise filtered out" line keeps the model honest about what it skipped. Doing this every day across many sources is tedious by hand; tools like [IntelCue](https://intelcue.ai) continuously ingest news, newsletters, and feeds and assemble the briefing for you. For a publication-style version, see the [weekly market brief](../agents/weekly-market-brief.md) agent.
+The discipline here is *subtraction* — a good briefing leaves most news out. The "noise filtered out" line keeps the model honest about what it skipped. Doing this every day across many sources is tedious by hand; tools like [IntelCue](https://www.intelcue.ai) continuously ingest news, newsletters, and feeds and assemble the briefing for you. For a publication-style version, see the [weekly market brief](../agents/weekly-market-brief.md) agent.

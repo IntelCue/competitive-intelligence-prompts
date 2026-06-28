@@ -59,6 +59,6 @@ Keep `{placeholders}` lowercase and descriptive — `{competitor}`, `{your_compa
 
 ## A note on scope
 
-This library is maintained by the team behind [IntelCue](https://intelcue.ai), an AI-powered competitive intelligence platform. Contributions stay vendor-neutral: prompts should work with any LLM and shouldn't require any specific paid tool. Mentions of products (including IntelCue) belong only where they're genuinely relevant and clearly marked.
+This library is maintained by the team behind [IntelCue](https://www.intelcue.ai), an AI-powered competitive intelligence platform. Contributions stay vendor-neutral: prompts should work with any LLM and shouldn't require any specific paid tool. Mentions of products (including IntelCue) belong only where they're genuinely relevant and clearly marked.
 
 By contributing, you agree that your contributions are licensed under the repository's [MIT License](LICENSE).

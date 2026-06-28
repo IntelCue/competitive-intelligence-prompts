@@ -45,4 +45,4 @@ Our perspective: {your_company}
 - Pasted posts/threads if your model can't access X.
 
 ## Notes
-X moves fast and rewards hot takes — distinguish a genuine signal from a passing pile-on, and confirm "news" before you act on it. The early-signals section is the real value: launches and controversies often surface here first. Tracking it continuously is impractical manually; platforms like [IntelCue](https://intelcue.ai) monitor social and news sources together so signals aren't missed. Feed launches into [release notes](../product/release-notes.md) tracking.
+X moves fast and rewards hot takes — distinguish a genuine signal from a passing pile-on, and confirm "news" before you act on it. The early-signals section is the real value: launches and controversies often surface here first. Tracking it continuously is impractical manually; platforms like [IntelCue](https://www.intelcue.ai) monitor social and news sources together so signals aren't missed. Feed launches into [release notes](../product/release-notes.md) tracking.

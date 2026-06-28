@@ -40,4 +40,4 @@ Our angle (optional): {your_company_context}
 - Recent source material (news, reports, posts) pasted in for grounding.
 
 ## Notes
-The momentum score is only as good as the evidence behind it — push the model to cite real signals, not vibes. The "hype vs. real" test is what separates this from a buzzword list. Continuously tracking momentum across many sources by hand is exactly the kind of work [IntelCue](https://intelcue.ai) automates; this prompt is the manual, on-demand version. Pair with [startup monitoring](startup-monitoring.md) and [investor analysis](investor-analysis.md) to see who's betting on each trend.
+The momentum score is only as good as the evidence behind it — push the model to cite real signals, not vibes. The "hype vs. real" test is what separates this from a buzzword list. Continuously tracking momentum across many sources by hand is exactly the kind of work [IntelCue](https://www.intelcue.ai) automates; this prompt is the manual, on-demand version. Pair with [startup monitoring](startup-monitoring.md) and [investor analysis](investor-analysis.md) to see who's betting on each trend.

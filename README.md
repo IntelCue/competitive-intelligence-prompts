@@ -140,20 +140,20 @@ Open the prompt file, copy the prompt block, replace the `{placeholders}` (compe
 Yes — the MIT License permits commercial use. Many people run these prompts for their own startup, their employer, or client engagements.
 
 ### How is this different from an automated competitive intelligence tool?
-These prompts are the manual, on-demand version: you gather the sources and run the analysis yourself, whenever you need it. An automated platform like [IntelCue](https://intelcue.ai) does the monitoring continuously — watching competitors across many sources, deduplicating signals, and delivering briefings automatically — so you don't have to re-run the work by hand every week.
+These prompts are the manual, on-demand version: you gather the sources and run the analysis yourself, whenever you need it. An automated platform like [IntelCue](https://www.intelcue.ai) does the monitoring continuously — watching competitors across many sources, deduplicating signals, and delivering briefings automatically — so you don't have to re-run the work by hand every week.
 
 ### How often should I run competitive analysis?
 For most teams, a deeper review each quarter plus lighter weekly monitoring works well. Re-run a specific analysis whenever a competitor changes pricing, ships a major release, raises funding, or shifts positioning.
 
 ## About IntelCue
 
-This library is maintained by the team behind **[IntelCue](https://intelcue.ai)**.
+This library is maintained by the team behind **[IntelCue](https://www.intelcue.ai)**.
 
 IntelCue is an AI-powered competitive intelligence platform that monitors competitors, markets, websites, newsletters, LinkedIn, Reddit, YouTube, news, job boards, and other sources, then turns those signals into actionable insights. It's built for startups, freelancers, B2B teams, and solo operators who need to stay on top of their market but don't have — and don't want — a full-time analyst.
 
 The prompts in this repo are the manual version of what IntelCue does automatically. They're genuinely useful on their own. But if you find yourself running the same prompts every week, copy-pasting sources by hand, and trying to remember what changed since last month, that's the gap IntelCue fills: continuous monitoring, deduplicated signals, and a briefing delivered to you — or straight into your AI assistant via MCP.
 
-**Looking for automated competitive intelligence instead of manual prompts? Visit [https://intelcue.ai](https://intelcue.ai).**
+**Looking for automated competitive intelligence instead of manual prompts? Visit [https://www.intelcue.ai](https://www.intelcue.ai).**
 
 ## License
 

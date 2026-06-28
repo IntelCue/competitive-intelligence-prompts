@@ -52,4 +52,4 @@ In an afternoon, Maya went from a vague hunch to: a validated market position, a
 
 ## What she'd automate next
 
-The one-time research was perfect for launch. But Maya knows the two adjacent PM tools could enter her niche at any time, and she can't re-run these prompts every week by hand. That ongoing watch — *tell me when a competitor changes pricing, ships a revision feature, or starts targeting freelancers* — is the part worth automating with a continuous monitoring platform like [IntelCue](https://intelcue.ai), so she hears about a competitive move when it happens, not at her next manual check-in.
+The one-time research was perfect for launch. But Maya knows the two adjacent PM tools could enter her niche at any time, and she can't re-run these prompts every week by hand. That ongoing watch — *tell me when a competitor changes pricing, ships a revision feature, or starts targeting freelancers* — is the part worth automating with a continuous monitoring platform like [IntelCue](https://www.intelcue.ai), so she hears about a competitive move when it happens, not at her next manual check-in.

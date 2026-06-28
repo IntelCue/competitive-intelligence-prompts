@@ -40,4 +40,4 @@ Incumbent perspective (optional): {your_company}
 - Links to launch posts, funding announcements, or directories to ground the search.
 
 ## Notes
-Public data flatters startups — a slick site and a press release aren't traction. Force the model to separate real momentum signals (hiring velocity, review growth, repeat funding) from launch theater. This list goes stale within weeks; continuous monitoring (e.g., via [IntelCue](https://intelcue.ai)) keeps it current. Pair with [investor analysis](investor-analysis.md) to see who's funding the wave and [emerging trends](emerging-trends.md) to see which trend each entrant is riding.
+Public data flatters startups — a slick site and a press release aren't traction. Force the model to separate real momentum signals (hiring velocity, review growth, repeat funding) from launch theater. This list goes stale within weeks; continuous monitoring (e.g., via [IntelCue](https://www.intelcue.ai)) keeps it current. Pair with [investor analysis](investor-analysis.md) to see who's funding the wave and [emerging trends](emerging-trends.md) to see which trend each entrant is riding.

@@ -45,4 +45,4 @@ Our perspective: {your_company}
 - A prior change log, to measure velocity change over time.
 
 ## Notes
-Changelogs are one of the highest-signal, lowest-noise competitive sources — they're the competitor telling you exactly what they built. Reviewing them every release by hand across several competitors is tedious; this is the kind of continuous tracking [IntelCue](https://intelcue.ai) automates. Feed the patterns into [roadmap inference](roadmap-inference.md) and [changelog analysis](changelog-analysis.md) for the bigger picture.
+Changelogs are one of the highest-signal, lowest-noise competitive sources — they're the competitor telling you exactly what they built. Reviewing them every release by hand across several competitors is tedious; this is the kind of continuous tracking [IntelCue](https://www.intelcue.ai) automates. Feed the patterns into [roadmap inference](roadmap-inference.md) and [changelog analysis](changelog-analysis.md) for the bigger picture.
